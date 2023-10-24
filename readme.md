@@ -10,6 +10,6 @@ In meinem zweiten Projekt möchte ich (xx Wörter)
 [ ] Mit der Gruppe ein Projekt finden
 [ ] Anfangen zu programmieren und eine github ablage erstellen
 
-Heute habe ich... (xx Wörter)
+Heute habe ich (xx Wörter)
 
 ## Arbeitspakete für 27.10.2023
