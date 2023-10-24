@@ -12,7 +12,7 @@ In meinem zweiten Projekt möchte ich gerne in einer Gruppe arbeiten und ein kle
 
 Heute habe ich mir ein Projekt überlegt, und mich für Tetris entschieden, ich wollte es gerne in einer Gruppe machen, doch jeder hat schon sein eigenes Projekt angefangen. Ich würde gerne das Tetris Spiel in den ersten fünf Wochen vollenden, damit ich in den anderen fünf Wochen ein zweites Projekt (am liebsten in einer Gruppe) starten kann. Ich habe mir auch schon überlegt als zweites Projekt Pacman zu programmieren, oder mein Tetris Spiel mit Features zu erweitern. (77 Wörter)
 
-## Arbeitspakete für 27.10.2023
+## Arbeitspakete für 31.10.2023
 - [ ] Blöcke in meinem Tetris Spiel erstellen
 - [ ] Tetris Spiel die Funktion des bewegens und rotierens des Blocks
 - [ ] Tetris Spiel so fertig machen, damit ich einen Testlauf machen kann (mit spielen)
