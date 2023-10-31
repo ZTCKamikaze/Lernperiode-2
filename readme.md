@@ -14,6 +14,14 @@ Heute habe ich mir ein Projekt überlegt, und mich für Tetris entschieden, ich 
 
 ## Arbeitspakete für 31.10.2023
 - [ ] Blöcke in meinem Tetris Spiel erstellen
-- [ ] Tetris Spiel die Funktion des bewegens und rotierens des Blocks
+- [X] Tetris Spiel die Funktion des bewegens und rotierens des Blocks
 - [ ] Tetris Spiel so fertig machen, damit ich einen Testlauf machen kann (mit spielen)
 - [ ] Tetris Designes machen, mit einem Zeichenprogramm das ich noch aussuchen muss
+
+Heute habe ich am Anfang bis zur ersetn Pause an den E-Portfolios für das Modul 319 gearbeitet, danach habe ich mich wieder an das Tetris Projekt gesetzt, und schon mit Florain und Arvin abgemacht, dass jeder sein "kleines" Projekt fertig macht, und dann machen wir eins zu dritt. Bei meinem Tetris Spiel habe ich die Bewegungen gemacht und ausprobiert, wie ich die Blöcke machen soll, aber es wurde dann doch zu kompliziert, vielleicht werde ich mich noch einmal dransetzten, und wenn ich es nicht schaffe, nehme ich die Assets von einem YouTube Video. (93 Wörter)
+
+## Arbeitspakete für 7.11.2023
+- [ ] Tetris Designs (Assets)
+- [ ] Tetris so weit fertig machen, damit ich ein Testlauf machen kann
+- [ ] Assets einfügen
+- [ ] evt. schon mal mit Florian und Arvin schauen, was wir als zweites Projekt zussammen machen wollen
