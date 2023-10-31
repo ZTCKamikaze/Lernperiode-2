@@ -6,8 +6,8 @@ Mika Olmes
 In meinem zweiten Projekt möchte ich gerne in einer Gruppe arbeiten und ein kleines Arcade Spiel programmieren, wei zum Beispiel Snake, Tetris oder PacMan. Ich wäre aber auch mit anderen Projekten zu friedenm wie zum Beispiel eine Wetterapp oder ein Vokabellerner für Englisch oder Französisch Vokabeln. (46 Wörter)
 
 ## Arbeitspakete für 20.10.2023
-- [ ] Ein Projekt finden, dass ich machen möchte
-- [ ] Daran arbeiten
+- [X] Ein Projekt finden, dass ich machen möchte
+- [X] Daran arbeiten
 - [ ] 
 
 Heute habe ich mir ein Projekt überlegt, und mich für Tetris entschieden, ich wollte es gerne in einer Gruppe machen, doch jeder hat schon sein eigenes Projekt angefangen. Ich würde gerne das Tetris Spiel in den ersten fünf Wochen vollenden, damit ich in den anderen fünf Wochen ein zweites Projekt (am liebsten in einer Gruppe) starten kann. Ich habe mir auch schon überlegt als zweites Projekt Pacman zu programmieren, oder mein Tetris Spiel mit Features zu erweitern. (77 Wörter)
