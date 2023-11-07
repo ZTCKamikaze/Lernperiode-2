@@ -21,7 +21,15 @@ Heute habe ich mir ein Projekt überlegt, und mich für Tetris entschieden, ich 
 Heute habe ich am Anfang bis zur ersetn Pause an den E-Portfolios für das Modul 319 gearbeitet, danach habe ich mich wieder an das Tetris Projekt gesetzt, und schon mit Florain und Arvin abgemacht, dass jeder sein "kleines" Projekt fertig macht, und dann machen wir eins zu dritt. Bei meinem Tetris Spiel habe ich die Bewegungen gemacht und ausprobiert, wie ich die Blöcke machen soll, aber es wurde dann doch zu kompliziert, vielleicht werde ich mich noch einmal dransetzten, und wenn ich es nicht schaffe, nehme ich die Assets von einem YouTube Video. (93 Wörter)
 
 ## Arbeitspakete für 7.11.2023
-- [ ] Tetris Designs (Assets)
+- [X] Tetris Designs (Assets)
 - [ ] Tetris so weit fertig machen, damit ich ein Testlauf machen kann
-- [ ] Assets einfügen
+- [X] Assets einfügen
 - [ ] evt. schon mal mit Florian und Arvin schauen, was wir als zweites Projekt zussammen machen wollen
+
+Heute habe ich wieder an meinen Portfolios gearbeitet, denn der Abgabetermin kommt immer näher und ich habe noch einige Portfolios zu tun. Danach habe ich meine Assets reingeladen, und das MainWindow vom Code angefangen. Leider ist ein Problem im code aufgetreten, wo ich nicht weiss was falsch ist, nächstes mal muss ich dann schauen was der Fehler ist. (58 Wörter)
+
+## Arbeitspakete für 14.11.2023
+
+- [ ] Tetris Spiel fertig machen
+- [ ] Mit Florian und Arvin Projekt überlegen (zussammensetzten)
+- [ ] Tetris Spiel ausprobieren
