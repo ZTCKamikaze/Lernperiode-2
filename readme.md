@@ -33,3 +33,12 @@ Heute habe ich wieder an meinen Portfolios gearbeitet, denn der Abgabetermin kom
 - [ ] Tetris Spiel fertig machen
 - [ ] Mit Florian und Arvin Projekt überlegen (zussammensetzten)
 - [ ] Tetris Spiel ausprobieren
+
+Heute haben mich unerwartet David und Robin gefragt ob wir am Projekt arbeiten wollen, dass unsere Kantilehrer gegebene haben. Und da Arvin nicht da war und ich Lust hatte an diesem Projekt zu arbeiten, habe ich ja gesagt und wir haben in einem anderen Zimmer gearbeitet. Wir haben unser Projekt verbessert und sind sehr weit gekommen, nun müssen wir am Freitag weiter arbeiten und so weit vorankommen wie es nur geht. (71 Wörter)
+
+## Arbeitspakete für 21.11.2023
+- [ ] Tetris Spiel (endlich) fertig machen
+- [ ] Tetris Spiel ausprobieren
+- [ ] Mit Florian und Arvin sprechen, ob wir überhaupt noch ein Projekt machen oder nicht (wegen den Projekten von unseren Kantilehrern)
+
+
