@@ -41,4 +41,10 @@ Heute haben mich unerwartet David und Robin gefragt ob wir am Projekt arbeiten w
 - [ ] Tetris Spiel ausprobieren
 - [ ] Mit Florian und Arvin sprechen, ob wir überhaupt noch ein Projekt machen oder nicht (wegen den Projekten von unseren Kantilehrern)
 
+Ich habe mir die Zeit eingeteilt und jeden Tag 1-2 Stunden gearbeitet, sodass ich am Dienstag nicht mehr viel machen muss. Ich habe an meinem Tetris Spiel gearbeitet, jedoch immernoch nicht fertig geworden, ich übernehme mich anscheinend immer mit den Arbeitspakete, dass es jedes mal fertig werden muss. Leider habe ich bei der Arbeit am Tetris Spiel das Spiel mal gestartet, und es sieht so aus als würde es einen Fehler geben, den muss ich dann nächstes mal beheben. Ich habe auch, wie Sie es uns auch gesagt haben, einen Code hochgeladen, dieser ist von unserem Projekt von unseren Kantilehrern erfundne worden ist. (103 Wörter)
 
+## Arbeitspakete für den 28.11.2023
+- [ ] Am Projekt unserer Kantilehrpersonen arbeiten, muss ich aber noch mit meiner Gruppe besprechen ob wir lieber alleine an unseren Projekten arbeiten,     
+      weil es einfacher ist anstatt die ganze Zeit zu Telefonieren
+- [ ] Die 2. Teilaufgabe unseres Programmierprojektes planen und beginnen
+- [ ] Tetris Spiel Fehler beheben
