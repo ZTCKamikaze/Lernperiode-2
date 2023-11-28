@@ -48,3 +48,11 @@ Ich habe mir die Zeit eingeteilt und jeden Tag 1-2 Stunden gearbeitet, sodass ic
       weil es einfacher ist anstatt die ganze Zeit zu Telefonieren
 - [ ] Die 2. Teilaufgabe unseres Programmierprojektes planen und beginnen
 - [ ] Tetris Spiel Fehler beheben
+      
+Heute habe ich an meinem Tetris Spiel weiter gearbeitet, denn wir hatten wieder Online Unterricht und es ist einfacher etwas für sich zu machen anstatt mit der Gruppe am Projekt zu arbeiten. Leider habe ich den Fehler im Tetris Spiel immernoch nicht gefunden, aber ich denke das Problem liegt im GameGrid. (51 Wörter)
+
+## Arbeitspakete für den 25.11.2023
+- [ ] Am Projekt arbeiten (Teilaufgabe 2)
+- [ ] Tetris Fehler beheben
+- [ ] Projekt soll fertig werden, damit wir mit dem Desigenen unseres Programm anfangen können
+
