@@ -51,8 +51,14 @@ Ich habe mir die Zeit eingeteilt und jeden Tag 1-2 Stunden gearbeitet, sodass ic
       
 Heute habe ich an meinem Tetris Spiel weiter gearbeitet, denn wir hatten wieder Online Unterricht und es ist einfacher etwas für sich zu machen anstatt mit der Gruppe am Projekt zu arbeiten. Leider habe ich den Fehler im Tetris Spiel immernoch nicht gefunden, aber ich denke das Problem liegt im GameGrid. (51 Wörter)
 
-## Arbeitspakete für den 25.11.2023
-- [ ] Am Projekt arbeiten (Teilaufgabe 2)
+## Arbeitspakete für den 5.11.2023
+- [X] Am Projekt arbeiten (Teilaufgabe 2)
 - [ ] Tetris Fehler beheben
-- [ ] Projekt soll fertig werden, damit wir mit dem Desigenen unseres Programm anfangen können
+- [X] Projekt soll fertig werden, damit wir mit dem Desigenen unseres Programm anfangen können
 
+Heute habe ich am Anfang zussammen mit David Koteski am Weihnachtskalender (Advent of Code) gearbeitet, haben aber beim zweiten Tag aufgebgeben und zussammen mit Robing Taing an unserem Projekt gearbeitet. Der Code unseres Projektes ist sogar schon fertig, aber wir versuchen jetzt auf WindowsForms ein wenig Design reinzubekommen. (48 Wörter)
+
+## Arbeitspakete für den 12.12.2023
+- [ ] Tetris fehler beheben
+- [ ] Projekt abschliessen (Dokumentation, Präsentation und Design)
+- [ ] Advent of Code weitermachen 
