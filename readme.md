@@ -60,5 +60,12 @@ Heute habe ich am Anfang zussammen mit David Koteski am Weihnachtskalender (Adve
 
 ## Arbeitspakete für den 12.12.2023
 - [ ] Tetris fehler beheben
-- [ ] Projekt abschliessen (Dokumentation, Präsentation und Design)
+- [X] Projekt abschliessen (Dokumentation, Präsentation und Design)
 - [ ] Advent of Code weitermachen 
+
+Heute haben ich und meine Mitarbeiter und Kollegen an unserem Programmierprojekt weiter gearbeitet und sogar beendet, das bedeutet, das wir sie am Mittwoch vorstellen müssen. Das fertigstellen der Dokumentation am heutigen Tag war sehr lange und deshalb haben wir nur die Dokumentation gemacht und besprochen was wir am Mittwoch vorstellen und wie wir unser Projekt vorstellen.
+
+## Arbeitepakete für den 19.12.2023
+- [ ] Tetris Fehler beheben
+- [ ] Tetris Spiel fertig machen
+- [ ] Advent of Code probieren, evtl mit David und Robin
