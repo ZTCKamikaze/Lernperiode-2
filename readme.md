@@ -69,3 +69,10 @@ Heute haben ich und meine Mitarbeiter und Kollegen an unserem Programmierprojekt
 - [ ] Tetris Fehler beheben
 - [ ] Tetris Spiel fertig machen
 - [ ] Advent of Code probieren, evtl mit David und Robin
+
+
+## Reflexion
+Am Anfang wollte ich ein Tetris Spiel programmieren. Das hat auch sehr gut funktioniert, aber dann kam das Programmierprojekt und wir haben die Zeit vom Lernatelier dazu benutzt um am Programmierprojekt zu arbeiten. Darum hatte ich nur am Anfang wenig Zeit um an meinem Tetris Spiel zu arbeiten, aber ich bin ziemlich weit gekommen, und zwar ist es spielbar, aber es hat ein paar Fehler vom aussehen her und nach ein paar Blöcken die immer wieder kommen hören auf zu kommen nach ein paar wiederholungen, und die Blöcke fallen noch nicht von alleine runter, das spiel ist noch lange nicht fertig, aber es ist schon ein bisschen spielbar. Was ich besser machen könnte wäre konzentrierter arbeiten, denn ich lasse mich sehr leicht ablenken. Und ein weiterer Verbesserungs Vorschlag wäre Coden repitieren, denn wir haben jetzt kein Programmiermodul mehr, darum sollte ich das Programmieren repitieren, damit ich es nicht verlerne.
+
+- [ ] nicht ablenken lassen, konzentrierter arbeiten
+- [ ] Programmieren repitieren (Modul 319)
